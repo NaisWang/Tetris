@@ -1,9 +1,9 @@
 package main;
 
-import ui.JFrameGame;
+import control.GameControl;
 
 public class Main {
 	public static void main(String[] args) {
-		new JFrameGame();
+		new GameControl();
 	}
 }
