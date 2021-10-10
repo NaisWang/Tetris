@@ -4,7 +4,7 @@
 		padding="15" border="7" sizeRol="5" loseIdx="8">
 		  <button w="105" h="40">
             <start x="840" y="74"/>
-            <userConfig x="965" y="75"/>
+            <userConfig x="965" y="78"/>
         </button>
 		<layer className="ui.LayerBackground" x="0" y="0" w="0" h="0" />
 		<layer className="ui.LayerDatabase" x="40" y="32" w="334"
